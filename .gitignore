@@ -3,7 +3,7 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 .ruff_cache/
-# Derived from JIGSAWS, whose licence forbids redistribution: keep out of git.
+# Derived from JIGSAWS, whose licence restricts use to academic research: keep out of git.
 data/
 reports/
 models/

@@ -70,7 +70,7 @@ rating of each trial, is reported too.
 ## Not done
 
 - Per-gesture or sequence models. They need more operators to be evaluated, not more parameters.
-- Video models. The stored features are per-frame summaries; `video` scored no better than chance
-  would suggest on its own (0.38 against 0.33).
+- Video models. The stored features are per-frame summaries; on their own they scored 0.38, against
+  0.33 for chance.
 - Coaching feedback. `predict` lists which features moved the score, but those are correlations from
   8 people, not advice.

@@ -28,7 +28,7 @@ venv/bin/rtdaas-training-eval predict --model models/without_D.joblib --subject 
 operators in the dataset, `reports/out_of_fold_predictions.csv` has each trial's held-out score.
 
 Keep `data/`, `models/` and `reports/` to yourself, as git does here: they derive from JIGSAWS, whose
-licence restricts use to academic research and forbids redistribution.
+licence restricts use to academic research.
 
 ## Options
 
